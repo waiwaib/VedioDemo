@@ -124,7 +124,7 @@ namespace VideoDemo
 
         public void Set_Encode()
         {
-            SetSubtitleEncoding("Windows-125");
+            SetSubtitleEncoding("Windows-1252");
         }
 
         public async Task<bool> LoadSubtitleMrlAsync()
